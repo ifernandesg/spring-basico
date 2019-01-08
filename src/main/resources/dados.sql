@@ -1,0 +1,1 @@
+INSERT INTO pessoa (id, nome, sobrenome, empresa) VALUES (1, 'Igor', 'Freela', 'Prodam')
